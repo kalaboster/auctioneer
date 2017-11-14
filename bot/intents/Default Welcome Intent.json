@@ -1,0 +1,42 @@
+{
+  "id": "9751db43-eb82-4864-a5af-848f74d92e0d",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Hi! Do you want to buy or sell?",
+            "Hello!  Do you want to buy or sell?",
+            "Good day!  Do you want to buy or sell?",
+            "Greetings!  Do you want to buy or sell?"
+          ]
+        },
+        {
+          "type": 4,
+          "lang": "en",
+          "payload": {}
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ]
+}

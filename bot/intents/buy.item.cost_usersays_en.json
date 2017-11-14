@@ -1,0 +1,15 @@
+[
+  {
+    "id": "a44fe520-ce8f-4359-b723-515a32b2d42e",
+    "data": [
+      {
+        "text": "buyItemCost",
+        "alias": "buyItemCost",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

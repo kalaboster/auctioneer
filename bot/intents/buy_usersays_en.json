@@ -1,0 +1,50 @@
+[
+  {
+    "id": "73d76ed2-0733-45c9-9c8c-08f5c922e6a1",
+    "data": [
+      {
+        "text": "buying",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1510629441
+  },
+  {
+    "id": "11a1d8d1-6532-4c69-85dc-e75896b376e4",
+    "data": [
+      {
+        "text": "I\u0027ll buy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1510629441
+  },
+  {
+    "id": "c0f9e3c4-886b-44d4-ad53-0cbeea256c4a",
+    "data": [
+      {
+        "text": "I want to buy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1510629441
+  },
+  {
+    "id": "b4d3431f-c986-49a9-8f52-4b730731078d",
+    "data": [
+      {
+        "text": "buy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1510629441
+  }
+]

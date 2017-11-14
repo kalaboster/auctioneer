@@ -1,0 +1,41 @@
+{
+  "id": "475f968c-c49d-4b82-b400-c33cc215df4d",
+  "name": "Default Fallback Intent",
+  "auto": false,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "I didn\u0027t get that. Can you say it again? Do you want to sell or buy?",
+            "I missed what you said. Say it again?  Do you want to sell or buy?",
+            "Sorry, could you say that again?  Do you want to sell or buy?",
+            "Sorry, can you say that again?  Do you want to sell or buy?",
+            "Can you say that again?  Do you want to sell or buy?",
+            "Sorry, I didn\u0027t get that.  Do you want to sell or buy?",
+            "Sorry, what was that?  Do you want to sell or buy?",
+            "One more time? Do you want to sell or buy?",
+            "What was that?  Do you want to sell or buy?",
+            "Say that again?  Do you want to sell or buy?",
+            "I didn\u0027t get that.  Do you want to sell or buy?",
+            "I missed that.  Do you want to sell or buy?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": []
+}
