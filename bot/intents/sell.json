@@ -31,11 +31,6 @@
           "name": "buy-item-cost",
           "parameters": {},
           "lifespan": 0
-        },
-        {
-          "name": "buy-item-confirm",
-          "parameters": {},
-          "lifespan": 5
         }
       ],
       "parameters": [],

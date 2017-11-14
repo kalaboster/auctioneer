@@ -14,18 +14,18 @@
           "type": 0,
           "lang": "en",
           "speech": [
-            "I didn\u0027t get that. Can you say it again? Do you want to sell or buy?",
-            "I missed what you said. Say it again?  Do you want to sell or buy?",
-            "Sorry, could you say that again?  Do you want to sell or buy?",
-            "Sorry, can you say that again?  Do you want to sell or buy?",
-            "Can you say that again?  Do you want to sell or buy?",
-            "Sorry, I didn\u0027t get that.  Do you want to sell or buy?",
-            "Sorry, what was that?  Do you want to sell or buy?",
-            "One more time? Do you want to sell or buy?",
-            "What was that?  Do you want to sell or buy?",
-            "Say that again?  Do you want to sell or buy?",
-            "I didn\u0027t get that.  Do you want to sell or buy?",
-            "I missed that.  Do you want to sell or buy?"
+            "I didn\u0027t get that. Can you say it again? Do you want to sell or buy or hold?",
+            "I missed what you said. Say it again?  Do you want to sell or buy or hold?",
+            "Sorry, could you say that again?  Do you want to sell or buy or hold?",
+            "Sorry, can you say that again?  Do you want to sell or buy or hold?",
+            "Can you say that again?  Do you want to sell or buy or hold?",
+            "Sorry, I didn\u0027t get that.  Do you want to sell or buy or hold?",
+            "Sorry, what was that?  Do you want to sell or buy or hold?",
+            "One more time? Do you want to sell or buy or hold?",
+            "What was that?  Do you want to sell or buy or hold?",
+            "Say that again?  Do you want to sell or buy or hold?",
+            "I didn\u0027t get that.  Do you want to sell or buy or hold?",
+            "I missed that.  Do you want to sell or buy or hold?"
           ]
         }
       ],

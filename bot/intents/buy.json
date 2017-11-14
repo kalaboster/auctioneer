@@ -21,6 +21,16 @@
           "name": "sell-item",
           "parameters": {},
           "lifespan": 0
+        },
+        {
+          "name": "sell-item-quantity",
+          "parameters": {},
+          "lifespan": 0
+        },
+        {
+          "name": "sell-item-cost",
+          "parameters": {},
+          "lifespan": 0
         }
       ],
       "parameters": [],

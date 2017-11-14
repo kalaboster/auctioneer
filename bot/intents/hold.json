@@ -1,26 +1,39 @@
 {
-  "id": "6d2ba372-57ea-4045-a359-f05f26a00110",
-  "name": "sell.item.quantity",
+  "id": "9d057603-0d78-409e-a108-8300924055dd",
+  "name": "hold",
   "auto": true,
-  "contexts": [
-    "sell-item"
-  ],
+  "contexts": [],
   "responses": [
     {
       "resetContexts": false,
       "affectedContexts": [
         {
-          "name": "buy",
+          "name": "sell-item",
           "parameters": {},
           "lifespan": 0
         },
         {
-          "name": "buy-item",
+          "name": "sell",
           "parameters": {},
           "lifespan": 0
         },
         {
           "name": "buy-item-cost",
+          "parameters": {},
+          "lifespan": 0
+        },
+        {
+          "name": "sell-item-amount",
+          "parameters": {},
+          "lifespan": 0
+        },
+        {
+          "name": "sell-item-quantity",
+          "parameters": {},
+          "lifespan": 0
+        },
+        {
+          "name": "sell-item-cost",
           "parameters": {},
           "lifespan": 0
         },
@@ -35,25 +48,22 @@
           "lifespan": 0
         },
         {
-          "name": "sell-item-quantity",
+          "name": "buy",
           "parameters": {},
-          "lifespan": 5
-        }
-      ],
-      "parameters": [
+          "lifespan": 0
+        },
         {
-          "id": "1528794a-879d-47fb-b8a7-1d09e7d9514e",
-          "required": true,
-          "dataType": "@sys.any",
-          "name": "sellItemQuantity",
-          "value": "$sellItemQuantity"
+          "name": "buy-item",
+          "parameters": {},
+          "lifespan": 0
         }
       ],
+      "parameters": [],
       "messages": [
         {
           "type": 0,
           "lang": "en",
-          "speech": "How much will you sell $sellItemQuantity #sell-item.sellItem?"
+          "speech": "It\u0027s okay to hold. Just let us know why you want to Sell, Buy or Hold."
         }
       ],
       "defaultResponsePlatforms": {},
@@ -63,7 +73,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1510632554161,
+  "lastUpdate": 1510695645,
   "fallbackIntent": false,
   "events": []
 }

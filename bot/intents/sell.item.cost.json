@@ -42,17 +42,17 @@
       ],
       "parameters": [
         {
-          "id": "a34f471f-25da-4c24-b15b-96fab5a74863",
+          "id": "ef365701-9b23-4069-b4c0-bdac89173bf0",
           "dataType": "@sys.any",
-          "name": "sellItemQuantity",
-          "value": "$sellItemQuantity"
+          "name": "sellItemCost",
+          "value": "$sellItemCost"
         }
       ],
       "messages": [
         {
           "type": 0,
           "lang": "en",
-          "speech": "At what price will you well $sellItemQuantity  #sell-cost.sellItemCost?"
+          "speech": "Preparing to sell #sell-item-quantity.sellItemQuantity #sell-item.sellItem at the cost of $sellItemCost..."
         }
       ],
       "defaultResponsePlatforms": {},

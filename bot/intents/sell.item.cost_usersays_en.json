@@ -1,10 +1,10 @@
 [
   {
-    "id": "bfd98325-1872-4510-a78e-9c6ba0f56d91",
+    "id": "b3b36820-b789-4a10-abe8-10fc1556bf2d",
     "data": [
       {
-        "text": "sellItemQuantity",
-        "alias": "sellItemQuantity",
+        "text": "sellItemCost",
+        "alias": "sellItemCost",
         "meta": "@sys.any",
         "userDefined": true
       }

@@ -33,6 +33,7 @@
       "parameters": [
         {
           "id": "14b9cb63-62b9-4938-baed-412bf0d8b6e4",
+          "required": false,
           "dataType": "@sys.any",
           "name": "buyItemCost",
           "value": "$buyItemCost",
@@ -43,7 +44,7 @@
         {
           "type": 0,
           "lang": "en",
-          "speech": "Please confirm with \u0027Yes\u0027 or \u0027No\u0027. Do you want #buy-item-quantity.buyItemQuantity  #buy-item.buyItem at the cost of $buyItemCost?"
+          "speech": "We are searching for #buy-item-quantity.buyItemQuantity  #buy-item.buyItem at the cost of $buyItemCost..."
         }
       ],
       "defaultResponsePlatforms": {},

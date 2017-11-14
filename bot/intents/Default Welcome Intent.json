@@ -14,10 +14,10 @@
           "type": 0,
           "lang": "en",
           "speech": [
-            "Hi! Do you want to buy or sell?",
-            "Hello!  Do you want to buy or sell?",
-            "Good day!  Do you want to buy or sell?",
-            "Greetings!  Do you want to buy or sell?"
+            "Hi! Do you want to buy or sell or hold?",
+            "Hello!  Do you want to buy or sell or hold?",
+            "Good day!  Do you want to buy or sell or hold?",
+            "Greetings!  Do you want to buy or sell or hold?"
           ]
         },
         {
